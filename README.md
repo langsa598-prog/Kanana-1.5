@@ -1,5 +1,3 @@
----
-
 ```markdown
 > Lightweight Colab demo for running Kakao's Kanana LLM with 4-bit quantization.
 
