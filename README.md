@@ -23,6 +23,8 @@ HF_TOKEN = os.getenv("HF_TOKEN")
 ⚠️ 보안을 위해 토큰을 코드 또는 GitHub에 직접 업로드하지 마세요.
 
 
+```
+
 # Kanana Text Generation Demo (Colab)
 
 카카오의 Kanana 모델을 사용하여 코랩 환경에서 간단한 텍스트 생성 서비스를 실행한다.
