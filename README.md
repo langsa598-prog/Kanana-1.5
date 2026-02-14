@@ -20,6 +20,3 @@ Value: your_huggingface_token
 import os
 HF_TOKEN = os.getenv("HF_TOKEN")
 ⚠️ 보안을 위해 토큰을 코드 또는 GitHub에 직접 업로드하지 마세요.
-
-
----
